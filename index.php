@@ -29,6 +29,9 @@
 <p><a href="http://localhost:8000/ConsultancyPage.php">E-Business</a></p>
 </div>
 </center>
+<a href="https://sd118405512is1113project.herokuapp.com/">Heroku</a>
+<a href="https://github.com/SD118405512/phpProject2">Github</a>
+
 </body>
 </html>
 
