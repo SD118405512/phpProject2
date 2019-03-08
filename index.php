@@ -1,17 +1,34 @@
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <title></title>
-    </head>
-    <body>
-        <?php
-        echo 'Hello World'
-        ?>
-    </body>
+<body>
+    <Title>Seán Dolan - Home Page</Title>
+<head>
+    
+    <style>
+        
+        h2{text-align: center;
+            
+        } 
+        
+    div {
+  background-color: lightgray;
+  width: 300px;
+  border: 25px solid black;
+  padding: 25px;
+  margin: 25px;
+  
+}
+
+</style>
+</head>
+<center>
+<h2>Seán Dolan - Home Page</h2>
+<div>
+<p><a href="http://localhost:8000/startbootstrap-resume-gh-pages/index.html">Seán Dolan - CV</a></p>
+<p><a href="http://localhost:8000/tiltedpage_scroll_demo.html">Hobbies Page</a></p>
+<p><a href="http://localhost:8000/ConsultancyPage.php">E-Business</a></p>
+</div>
+</center>
+</body>
 </html>
+
